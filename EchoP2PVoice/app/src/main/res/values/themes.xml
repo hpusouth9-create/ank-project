@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.P2PVoice" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#6200EE</item>
+        <item name="android:colorSecondary">#03DAC6</item>
+        <item name="android:statusBarColor">?android:attr/colorPrimary</item>
+    </style>
+</resources>
